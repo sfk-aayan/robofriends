@@ -1,6 +1,6 @@
 # robofriends
 A simple website made using React.
-Link: sfk-aayan.github.io/robofriends/
+Link: (sfk-aayan.github.io/robofriends/)
 
 Tutorial for React to run the project:
 1. Clone this repo
